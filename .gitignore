@@ -1,0 +1,24 @@
+# Build results
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio / Rider specific
+.vs/
+.idea/
+*.user
+*.suo
+*.userprefs
+*.sln.docstates
+
+# Test results
+TestResults/
+
+# Environment specific
+.env
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Entity Framework
+appsettings.Development.json
